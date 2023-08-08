@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Unit 3 lights 3
+  m_EditorClassIdentifier: 
+  categoryName: Quiz 3
+  questions:
+  - questionInfo: What is the term for news stories that are continuously updated
+      and broadcast in real-time?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Feature news
+    - Rolling news
+    - Documentaries
+    - Journal
+    correctAns: Rolling news
+  - questionInfo: What term describes a person who presents news stories on television
+      or radio?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Headlines
+    - Press
+    - Journal
+    - Newsreader
+    correctAns: Newsreader
+  - questionInfo: If someone says "It's in the can," what are they referring to?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - The news is reliable
+    - The event has started
+    - The project is complete
+    - The weather is unpredictable
+    correctAns: The project is complete
+  - questionInfo: Which term refers to the person who writes the script for a film?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Host
+    - Narrator
+    - Screenwriter
+    - Filmmaker
+    correctAns: Screenwriter
+  - questionInfo: Which term is used to describe a planned sequence of TV episodes
+      that tell a continuous story?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Series
+    - Showcases
+    - Documentaries
+    - Prime time
+    correctAns: Series

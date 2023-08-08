@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Unit 3 lights 1
+  m_EditorClassIdentifier: 
+  categoryName: Quiz 1
+  questions:
+  - questionInfo: What does the idiom "Get the show on the road" mean?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Start a TV program
+    - Begin a live performance
+    - Initiate a journey or project
+    - Host an event
+    correctAns: Initiate a journey or project
+  - questionInfo: What does an "eyewitness report" in news refer to?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - A report written by journalists
+    - News headlines
+    - A report by someone who saw the event happen
+    - A fictional story
+    correctAns: A report by someone who saw the event happen
+  - questionInfo: What does the phrase "breaking news" refer to?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - News that's presented in a journal format
+    - News that is no longer relevant
+    - News that has already been verified
+    - News that's just been discovered or reported
+    correctAns: News that's just been discovered or reported
+  - questionInfo: What does the term "verify" mean in the context of news reporting?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - To write an opinion piece
+    - To confirm the accuracy of information
+    - To create sensational headlines
+    - To broadcast breaking news
+    correctAns: To confirm the accuracy of information
+  - questionInfo: What is the term for the main points or most important parts of
+      a news article?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Press
+    - Journal
+    - Headlines
+    - Eyewitness reports
+    correctAns: Headlines

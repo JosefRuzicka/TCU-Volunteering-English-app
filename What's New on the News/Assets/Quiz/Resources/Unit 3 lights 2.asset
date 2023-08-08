@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Unit 3 lights 2
+  m_EditorClassIdentifier: 
+  categoryName: Quiz 2
+  questions:
+  - questionInfo: Which type of TV program might provide information about the weather
+      conditions?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Comedy/sitcoms
+    - Westerns
+    - Weather forecast
+    - Talk show
+    correctAns: Weather forecast
+  - questionInfo: What term refers to the first public showing of a movie?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Premiere
+    - Soap operas
+    - Showcase
+    - Cartoons
+    correctAns: Premiere
+  - questionInfo: What does the idiom "Mind blowing" mean?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Confusing
+    - Extremely impressive or surprising
+    - Negative
+    - Not worth considering
+    correctAns: Extremely impressive or surprising
+  - questionInfo: If someone says "Come rain or shine" what are they expressing?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - They don't like the weather
+    - They will only go out in good weather
+    - They are adaptable to any situation
+    - They don't care about weather forecasts
+    correctAns: They are adaptable to any situation
+  - questionInfo: What does the idiom "It's a wrap" mean?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - It's time for a break
+    - The weather is cold
+    - The event or task is finished
+    - The news is bad
+    correctAns: The event or task is finished

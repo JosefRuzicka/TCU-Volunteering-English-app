@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Unit 3 lights 4
+  m_EditorClassIdentifier: 
+  categoryName: Quiz 4
+  questions:
+  - questionInfo: Which type of TV program typically features discussions between
+      a host and celebrity guests and covers a wide range of topics?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Weather forecast
+    - Talk show
+    - Game show
+    - Sport programs
+    correctAns: Talk show
+  - questionInfo: What type of TV program focuses on humorous situations and often
+      features a recurring cast of characters?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Soap operas
+    - Westerns
+    - Cartoons
+    - Sitcoms
+    correctAns: Sitcoms
+  - questionInfo: If someone says "I give it two thumbs up!" about a movie, what
+      do they mean?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - They disliked the movie
+    - They found the movie boring
+    - They highly recommend the movie
+    - They don't have an opinion about the movie
+    correctAns: They highly recommend the movie
+  - questionInfo: In the film industry, what does the term "box office" refer to?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - The film crew's workspace
+    - The place where film equipment is stored
+    - The earnings of a movie in theaters
+    - The location for film premieres
+    correctAns: The earnings of a movie in theaters
+  - questionInfo: What is the term for a person who provides a voice for characters
+      in animations or films?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Host
+    - Narrator
+    - Supporting actor
+    - Voice-over
+    correctAns: Voice-over
