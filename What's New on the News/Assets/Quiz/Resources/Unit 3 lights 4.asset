@@ -45,22 +45,22 @@ MonoBehaviour:
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - They disliked the movie
-    - They found the movie boring
-    - They highly recommend the movie
-    - They don't have an opinion about the movie
-    correctAns: They highly recommend the movie
+    - They disliked the movie.
+    - They found the movie boring.
+    - They highly recommend the movie.
+    - They don't have an opinion about the movie.
+    correctAns: They highly recommend the movie.
   - questionInfo: In the film industry, what does the term "box office" refer to?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - The film crew's workspace
-    - The place where film equipment is stored
-    - The earnings of a movie in theaters
-    - The location for film premieres
-    correctAns: The earnings of a movie in theaters
+    - The film crew's workspace.
+    - The place where film equipment is stored.
+    - The earnings of a movie in theaters.
+    - The location for film premieres.
+    correctAns: The earnings of a movie in theaters.
   - questionInfo: What is the term for a person who provides a voice for characters
       in animations or films?
     questionType: 0

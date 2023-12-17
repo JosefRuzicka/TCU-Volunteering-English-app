@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   categoryName: Quiz 1
   questions:
-  - questionInfo: What does the idiom "Get the show on the road" mean?
+  - questionInfo: What does the idiom "get the show on the road" mean?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
@@ -31,22 +31,22 @@ MonoBehaviour:
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - A report written by journalists
-    - News headlines
-    - A report by someone who saw the event happen
-    - A fictional story
-    correctAns: A report by someone who saw the event happen
+    - A report written by professional journalists.
+    - A brief summary of news headlines.
+    - A report by someone who saw the event happen.
+    - A fictional story reported by creative writers.
+    correctAns: A report by someone who saw the event happen.
   - questionInfo: What does the phrase "breaking news" refer to?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - News that's presented in a journal format
-    - News that is no longer relevant
-    - News that has already been verified
-    - News that's just been discovered or reported
-    correctAns: News that's just been discovered or reported
+    - News that is presented in a journalistic format.
+    - News that is no longer relevant.
+    - News that has already been verified.
+    - News that has just been discovered or reported.
+    correctAns: News that has just been discovered or reported.
   - questionInfo: What does the term "verify" mean in the context of news reporting?
     questionType: 0
     questionImage: {fileID: 0}

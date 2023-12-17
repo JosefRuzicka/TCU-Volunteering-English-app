@@ -38,17 +38,17 @@ MonoBehaviour:
     - Journal
     - Newsreader
     correctAns: Newsreader
-  - questionInfo: If someone says "It's in the can," what are they referring to?
+  - questionInfo: If someone says "it's in the can," what are they referring to?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - The news is reliable
-    - The event has started
-    - The project is complete
-    - The weather is unpredictable
-    correctAns: The project is complete
+    - The news is reliable.
+    - The event has started.
+    - The project is complete.
+    - The weather is unpredictable.
+    correctAns: The project is complete.
   - questionInfo: Which term refers to the person who writes the script for a film?
     questionType: 0
     questionImage: {fileID: 0}

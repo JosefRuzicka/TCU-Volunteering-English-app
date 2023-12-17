@@ -37,36 +37,36 @@ MonoBehaviour:
     - Showcase
     - Cartoons
     correctAns: Premiere
-  - questionInfo: What does the idiom "Mind blowing" mean?
+  - questionInfo: What does the idiom "mind blowing" mean?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
     - Confusing
-    - Extremely impressive or surprising
-    - Negative
+    - Impressive or surprising
+    - Negative or sad
     - Not worth considering
-    correctAns: Extremely impressive or surprising
-  - questionInfo: If someone says "Come rain or shine" what are they expressing?
+    correctAns: Impressive or surprising
+  - questionInfo: If someone says "come rain or shine," what are they expressing?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - They don't like the weather
-    - They will only go out in good weather
-    - They are adaptable to any situation
-    - They don't care about weather forecasts
-    correctAns: They are adaptable to any situation
-  - questionInfo: What does the idiom "It's a wrap" mean?
+    - They don't like the weather.
+    - They will only go out in good weather.
+    - They are adaptable to any situation.
+    - They don't care about weather forecasts.
+    correctAns: They are adaptable to any situation.
+  - questionInfo: What does the idiom "it's a wrap" mean?
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - It's time for a break
-    - The weather is cold
-    - The event or task is finished
-    - The news is bad
-    correctAns: The event or task is finished
+    - It's time for a break.
+    - The weather is cold.
+    - The event or task is finished.
+    - The news is bad.
+    correctAns: The event or task is finished.
